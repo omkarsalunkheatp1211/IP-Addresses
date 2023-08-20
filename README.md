@@ -30,11 +30,11 @@ This web app displays both IPv4 and IPv6 addresses, allowing users to convenient
 
 Open your terminal or command prompt and Clone the repository to your local machine:
 ```javascript
-git clone https://github.com/omkarsalunkheatp1211/Happy-Independence-Day.git
+git clone https://github.com/omkarsalunkheatp1211/IP-Addresses.git
 ```
-Go to the transaction-website directory
+Go to the IP-Addresse directory
 ```javascript
- cd transaction-website
+ cd IP-Addresses
 ```
 Run index.html file.
 ```javascript
