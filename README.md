@@ -28,6 +28,10 @@ This web app displays both IPv4 and IPv6 addresses, allowing users to convenient
 
 ## Setup
 
+https://omkarsalunkheatp1211.github.io/IP-Addresses/
+
+OR
+
 Open your terminal or command prompt and Clone the repository to your local machine:
 ```javascript
 git clone https://github.com/omkarsalunkheatp1211/IP-Addresses.git
