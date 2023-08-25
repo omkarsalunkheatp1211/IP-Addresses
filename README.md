@@ -6,7 +6,6 @@
 - [Preview](#preview)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
-- [Usage](#usage)
 
 ## Features
 
