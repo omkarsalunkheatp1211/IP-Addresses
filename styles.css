@@ -56,6 +56,7 @@ footer {
   position: fixed;
   bottom: 0;
 }
+
 .copy-button {
   background-color: #4CAF50;
   border: none;
@@ -72,4 +73,12 @@ footer {
 
 .copy-button:hover {
   background-color: #45a049;
+}
+#ip-location,
+#isp,
+#city,
+#time-zone {
+  font-size: 16px;
+  color: #fff;
+  margin: 10px 0;
 }
