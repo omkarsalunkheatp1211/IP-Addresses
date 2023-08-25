@@ -10,14 +10,13 @@
 
 ## Features
 
-This web app displays both IPv4 and IPv6 addresses, allowing users to conveniently copy them to their clipboard. It provides the following features:
-
-- Display of fetched IPv4 and IPv6 addresses.
-- Copy functionality for both address types.
+- Displays both IPv4 and IPv6 addresses.
+- Provides buttons to copy IPv4 and IPv6 addresses to clipboard.
+- Fetches and displays IP location information including IP location, ISP, city, and time zone.
 
 ## Preview
 
-![1](https://github.com/omkarsalunkheatp1211/IP-Addresses/assets/96873232/26b762f6-c3f1-4ecf-9fa0-2f341db2bdc9)
+![a](https://github.com/omkarsalunkheatp1211/IP-Addresses/assets/96873232/f40b8866-a72d-4305-899f-825c3ee20fd7)
 
 
 ## Technologies Used
