@@ -14,8 +14,9 @@
 - Fetches and displays IP location information including IP location, ISP, city, and time zone.
 
 ## Preview
+**Live Demo:** [Public IP Addresses Web App](https://omkarsalunkheatp1211.github.io/IP-Addresses/)
 
-![a](https://github.com/omkarsalunkheatp1211/IP-Addresses/assets/96873232/f40b8866-a72d-4305-899f-825c3ee20fd7)
+![1](https://github.com/omkarsalunkheatp1211/IP-Addresses/assets/96873232/12bcf0a6-a337-43c1-b2a7-5d43c1bcdaa8)
 
 
 ## Technologies Used
@@ -25,10 +26,6 @@
 - JavaScript
 
 ## Setup
-
-https://omkarsalunkheatp1211.github.io/IP-Addresses/
-
-OR
 
 Open your terminal or command prompt and Clone the repository to your local machine:
 ```javascript
